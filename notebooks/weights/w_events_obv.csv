@@ -1,0 +1,221 @@
+﻿Position,Event,OBV,Weight
+Attacking Midfield,Block,Against,0
+Attacking Midfield,Carry,Against,0.1
+Attacking Midfield,Clearance,Against,0.1
+Attacking Midfield,Dribble,Against,0.1
+Attacking Midfield,Duel,Against,0.2
+Attacking Midfield,Foul Committed,Against,0.1
+Attacking Midfield,Goal Keeper,Against,0
+Attacking Midfield,Interception,Against,0.2
+Attacking Midfield,Pass,Against,0.2
+Attacking Midfield,Shot,Against,0
+Attacking Midfield,Block,For,0
+Attacking Midfield,Carry,For,0.2
+Attacking Midfield,Clearance,For,0
+Attacking Midfield,Dribble,For,0.2
+Attacking Midfield,Duel,For,0.05
+Attacking Midfield,Foul Committed,For,0
+Attacking Midfield,Goal Keeper,For,0
+Attacking Midfield,Interception,For,0.05
+Attacking Midfield,Pass,For,0.3
+Attacking Midfield,Shot,For,0.2
+Center Forward,Block,Against,0
+Center Forward,Carry,Against,0.1
+Center Forward,Clearance,Against,0.2
+Center Forward,Dribble,Against,0.1
+Center Forward,Duel,Against,0.2
+Center Forward,Foul Committed,Against,0.1
+Center Forward,Goal Keeper,Against,0
+Center Forward,Interception,Against,0.2
+Center Forward,Pass,Against,0.1
+Center Forward,Shot,Against,0
+Center Forward,Block,For,0
+Center Forward,Carry,For,0.1
+Center Forward,Clearance,For,0
+Center Forward,Dribble,For,0.2
+Center Forward,Duel,For,0.1
+Center Forward,Foul Committed,For,0
+Center Forward,Goal Keeper,For,0
+Center Forward,Interception,For,0.1
+Center Forward,Pass,For,0.1
+Center Forward,Shot,For,0.4
+Center Midfield,Block,Against,0.1
+Center Midfield,Carry,Against,0.1
+Center Midfield,Clearance,Against,0.1
+Center Midfield,Dribble,Against,0.1
+Center Midfield,Duel,Against,0.1
+Center Midfield,Foul Committed,Against,0.1
+Center Midfield,Goal Keeper,Against,0
+Center Midfield,Interception,Against,0.2
+Center Midfield,Pass,Against,0.2
+Center Midfield,Shot,Against,0
+Center Midfield,Block,For,0
+Center Midfield,Carry,For,0.2
+Center Midfield,Clearance,For,0.1
+Center Midfield,Dribble,For,0.05
+Center Midfield,Duel,For,0.1
+Center Midfield,Foul Committed,For,0.05
+Center Midfield,Goal Keeper,For,0
+Center Midfield,Interception,For,0.1
+Center Midfield,Pass,For,0.3
+Center Midfield,Shot,For,0.1
+Defensive Midfield,Block,Against,0.2
+Defensive Midfield,Carry,Against,0
+Defensive Midfield,Clearance,Against,0.1
+Defensive Midfield,Dribble,Against,0
+Defensive Midfield,Duel,Against,0.2
+Defensive Midfield,Foul Committed,Against,0.1
+Defensive Midfield,Goal Keeper,Against,0
+Defensive Midfield,Interception,Against,0.2
+Defensive Midfield,Pass,Against,0.2
+Defensive Midfield,Shot,Against,0
+Defensive Midfield,Block,For,0.1
+Defensive Midfield,Carry,For,0.1
+Defensive Midfield,Clearance,For,0.1
+Defensive Midfield,Dribble,For,0.05
+Defensive Midfield,Duel,For,0.1
+Defensive Midfield,Foul Committed,For,0.05
+Defensive Midfield,Goal Keeper,For,0
+Defensive Midfield,Interception,For,0.1
+Defensive Midfield,Pass,For,0.4
+Defensive Midfield,Shot,For,0
+Goalkeeper,Block,Against,0.1
+Goalkeeper,Carry,Against,0
+Goalkeeper,Clearance,Against,0.05
+Goalkeeper,Dribble,Against,0
+Goalkeeper,Duel,Against,0.1
+Goalkeeper,Foul Committed,Against,0.1
+Goalkeeper,Goal Keeper,Against,0.5
+Goalkeeper,Interception,Against,0.05
+Goalkeeper,Pass,Against,0.1
+Goalkeeper,Shot,Against,0
+Goalkeeper,Block,For,0
+Goalkeeper,Carry,For,0.1
+Goalkeeper,Clearance,For,0
+Goalkeeper,Dribble,For,0
+Goalkeeper,Duel,For,0
+Goalkeeper,Foul Committed,For,0.1
+Goalkeeper,Goal Keeper,For,0.4
+Goalkeeper,Interception,For,0.1
+Goalkeeper,Pass,For,0.3
+Goalkeeper,Shot,For,0
+Left Back,Block,Against,0.1
+Left Back,Carry,Against,0.1
+Left Back,Clearance,Against,0.1
+Left Back,Dribble,Against,0
+Left Back,Duel,Against,0.3
+Left Back,Foul Committed,Against,0.1
+Left Back,Goal Keeper,Against,0
+Left Back,Interception,Against,0.2
+Left Back,Pass,Against,0.1
+Left Back,Shot,Against,0
+Left Back,Block,For,0
+Left Back,Carry,For,0.2
+Left Back,Clearance,For,0
+Left Back,Dribble,For,0.2
+Left Back,Duel,For,0.1
+Left Back,Foul Committed,For,0
+Left Back,Goal Keeper,For,0
+Left Back,Interception,For,0.1
+Left Back,Pass,For,0.3
+Left Back,Shot,For,0.1
+Left Center Back,Block,Against,0.2
+Left Center Back,Carry,Against,0.1
+Left Center Back,Clearance,Against,0.1
+Left Center Back,Dribble,Against,0
+Left Center Back,Duel,Against,0.2
+Left Center Back,Foul Committed,Against,0.1
+Left Center Back,Goal Keeper,Against,0
+Left Center Back,Interception,Against,0.2
+Left Center Back,Pass,Against,0.1
+Left Center Back,Shot,Against,0
+Left Center Back,Block,For,0
+Left Center Back,Carry,For,0.3
+Left Center Back,Clearance,For,0.1
+Left Center Back,Dribble,For,0.1
+Left Center Back,Duel,For,0.1
+Left Center Back,Foul Committed,For,0
+Left Center Back,Goal Keeper,For,0
+Left Center Back,Interception,For,0
+Left Center Back,Pass,For,0.3
+Left Center Back,Shot,For,0.1
+Left Wing,Block,Against,0
+Left Wing,Carry,Against,0.1
+Left Wing,Clearance,Against,0.1
+Left Wing,Dribble,Against,0
+Left Wing,Duel,Against,0.3
+Left Wing,Foul Committed,Against,0.1
+Left Wing,Goal Keeper,Against,0
+Left Wing,Interception,Against,0.2
+Left Wing,Pass,Against,0.2
+Left Wing,Shot,Against,0
+Left Wing,Block,For,0
+Left Wing,Carry,For,0.1
+Left Wing,Clearance,For,0
+Left Wing,Dribble,For,0.2
+Left Wing,Duel,For,0.1
+Left Wing,Foul Committed,For,0
+Left Wing,Goal Keeper,For,0
+Left Wing,Interception,For,0
+Left Wing,Pass,For,0.3
+Left Wing,Shot,For,0.3
+Right Back,Block,Against,0.1
+Right Back,Carry,Against,0.1
+Right Back,Clearance,Against,0.1
+Right Back,Dribble,Against,0
+Right Back,Duel,Against,0.3
+Right Back,Foul Committed,Against,0.1
+Right Back,Goal Keeper,Against,0
+Right Back,Interception,Against,0.2
+Right Back,Pass,Against,0.1
+Right Back,Shot,Against,0
+Right Back,Block,For,0
+Right Back,Carry,For,0.2
+Right Back,Clearance,For,0
+Right Back,Dribble,For,0.2
+Right Back,Duel,For,0.1
+Right Back,Foul Committed,For,0
+Right Back,Goal Keeper,For,0
+Right Back,Interception,For,0.1
+Right Back,Pass,For,0.3
+Right Back,Shot,For,0.1
+Right Center Back,Block,Against,0.2
+Right Center Back,Carry,Against,0.1
+Right Center Back,Clearance,Against,0.1
+Right Center Back,Dribble,Against,0
+Right Center Back,Duel,Against,0.2
+Right Center Back,Foul Committed,Against,0.1
+Right Center Back,Goal Keeper,Against,0
+Right Center Back,Interception,Against,0.2
+Right Center Back,Pass,Against,0.1
+Right Center Back,Shot,Against,0
+Right Center Back,Block,For,0
+Right Center Back,Carry,For,0.3
+Right Center Back,Clearance,For,0.1
+Right Center Back,Dribble,For,0.1
+Right Center Back,Duel,For,0.1
+Right Center Back,Foul Committed,For,0
+Right Center Back,Goal Keeper,For,0
+Right Center Back,Interception,For,0
+Right Center Back,Pass,For,0.3
+Right Center Back,Shot,For,0.1
+Right Wing,Block,Against,0
+Right Wing,Carry,Against,0.1
+Right Wing,Clearance,Against,0.1
+Right Wing,Dribble,Against,0
+Right Wing,Duel,Against,0.3
+Right Wing,Foul Committed,Against,0.1
+Right Wing,Goal Keeper,Against,0
+Right Wing,Interception,Against,0.2
+Right Wing,Pass,Against,0.2
+Right Wing,Shot,Against,0
+Right Wing,Block,For,0
+Right Wing,Carry,For,0.1
+Right Wing,Clearance,For,0
+Right Wing,Dribble,For,0.2
+Right Wing,Duel,For,0.1
+Right Wing,Foul Committed,For,0
+Right Wing,Goal Keeper,For,0
+Right Wing,Interception,For,0
+Right Wing,Pass,For,0.3
+Right Wing,Shot,For,0.3

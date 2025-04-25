@@ -1,0 +1,1616 @@
+[
+    {
+        "team_id": 38,
+        "team_name": "Tottenham Hotspur",
+        "lineup": [
+            {
+                "player_id": 3083,
+                "player_name": "Heung-Min Son",
+                "player_nickname": "Son Heung-Min",
+                "birth_date": "1992-07-08",
+                "player_gender": "male",
+                "player_height": 183.0,
+                "player_weight": 78.0,
+                "jersey_number": 7,
+                "country": {
+                    "id": 121,
+                    "name": "Korea\u00a0(South)"
+                },
+                "positions": [
+                    {
+                        "position_id": 16,
+                        "position": "Left Midfield",
+                        "from": "00:00:00.000",
+                        "to": "01:15:24.660",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 3280,
+                        "counterpart_name": "Richarlison de Andrade"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 1,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 3086,
+                "player_name": "Ben Davies",
+                "player_nickname": null,
+                "birth_date": "1993-04-24",
+                "player_gender": "male",
+                "player_height": 181.0,
+                "player_weight": 77.0,
+                "jersey_number": 33,
+                "country": {
+                    "id": 249,
+                    "name": "Wales"
+                },
+                "positions": [
+                    {
+                        "position_id": 6,
+                        "position": "Left Back",
+                        "from": "00:00:00.000",
+                        "to": "01:17:26.089",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 8,
+                        "position": "Left Wing Back",
+                        "from": "01:17:26.089",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 3280,
+                "player_name": "Richarlison de Andrade",
+                "player_nickname": "Richarlison",
+                "birth_date": "1997-05-10",
+                "player_gender": "male",
+                "player_height": 184.0,
+                "player_weight": 83.0,
+                "jersey_number": 9,
+                "country": {
+                    "id": 31,
+                    "name": "Brazil"
+                },
+                "positions": [
+                    {
+                        "position_id": 16,
+                        "position": "Left Midfield",
+                        "from": "01:15:24.660",
+                        "to": "01:17:26.089",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Tactical Shift",
+                        "counterpart_id": 3083,
+                        "counterpart_name": "Heung-Min Son"
+                    },
+                    {
+                        "position_id": 24,
+                        "position": "Left Center Forward",
+                        "from": "01:17:26.089",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 3494,
+                "player_name": "Davinson S\u00e1nchez Mina",
+                "player_nickname": "Davinson S\u00e1nchez",
+                "birth_date": "1996-06-12",
+                "player_gender": "male",
+                "player_height": 187.0,
+                "player_weight": 81.0,
+                "jersey_number": 6,
+                "country": {
+                    "id": 49,
+                    "name": "Colombia"
+                },
+                "positions": [
+                    {
+                        "position_id": 3,
+                        "position": "Right Center Back",
+                        "from": "00:00:00.000",
+                        "to": "01:17:26.089",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 4,
+                        "position": "Center Back",
+                        "from": "01:17:26.089",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 3745,
+                "player_name": "Lucas Rodrigues Moura da Silva",
+                "player_nickname": "Lucas Moura",
+                "birth_date": "1992-08-13",
+                "player_gender": "male",
+                "player_height": 172.0,
+                "player_weight": 72.0,
+                "jersey_number": 27,
+                "country": {
+                    "id": 31,
+                    "name": "Brazil"
+                },
+                "positions": [
+                    {
+                        "position_id": 7,
+                        "position": "Right Wing Back",
+                        "from": "01:29:46.108",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Final Whistle",
+                        "counterpart_id": 11292,
+                        "counterpart_name": "Pedro Antonio Porro Sauceda"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 1,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 3970,
+                "player_name": "Fraser Forster",
+                "player_nickname": null,
+                "birth_date": "1988-03-17",
+                "player_gender": "male",
+                "player_height": 201.0,
+                "player_weight": 93.0,
+                "jersey_number": 20,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 1,
+                        "position": "Goalkeeper",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 4385,
+                "player_name": "Yves Bissouma",
+                "player_nickname": null,
+                "birth_date": "1996-08-30",
+                "player_gender": "male",
+                "player_height": 182.0,
+                "player_weight": 80.0,
+                "jersey_number": 38,
+                "country": {
+                    "id": 140,
+                    "name": "Mali"
+                },
+                "positions": [
+                    {
+                        "position_id": 9,
+                        "position": "Right Defensive Midfield",
+                        "from": "00:00:00.000",
+                        "to": "01:15:25.139",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 133771,
+                        "counterpart_name": "Matthew Craig"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 6826,
+                "player_name": "Cl\u00e9ment Lenglet",
+                "player_nickname": null,
+                "birth_date": "1995-06-17",
+                "player_gender": "male",
+                "player_height": 186.0,
+                "player_weight": 81.0,
+                "jersey_number": 34,
+                "country": {
+                    "id": 78,
+                    "name": "France"
+                },
+                "positions": [
+                    {
+                        "position_id": 5,
+                        "position": "Left Center Back",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 10955,
+                "player_name": "Harry Kane",
+                "player_nickname": null,
+                "birth_date": "1993-07-28",
+                "player_gender": "male",
+                "player_height": 188.0,
+                "player_weight": 86.0,
+                "jersey_number": 10,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 24,
+                        "position": "Left Center Forward",
+                        "from": "00:00:00.000",
+                        "to": "00:05:09.996",
+                        "from_period": 1,
+                        "to_period": 1,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Player Off"
+                    },
+                    {
+                        "position_id": 24,
+                        "position": "Left Center Forward",
+                        "from": "00:05:36.570",
+                        "to": "01:17:26.089",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Player On",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 22,
+                        "position": "Right Center Forward",
+                        "from": "01:17:26.089",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 2,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 11292,
+                "player_name": "Pedro Antonio Porro Sauceda",
+                "player_nickname": "Pedro Porro",
+                "birth_date": "1999-09-13",
+                "player_gender": "male",
+                "player_height": 173.0,
+                "player_weight": 69.0,
+                "jersey_number": 23,
+                "country": {
+                    "id": 214,
+                    "name": "Spain"
+                },
+                "positions": [
+                    {
+                        "position_id": 12,
+                        "position": "Right Midfield",
+                        "from": "00:00:00.000",
+                        "to": "01:02:54.811",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Player Off"
+                    },
+                    {
+                        "position_id": 12,
+                        "position": "Right Midfield",
+                        "from": "01:03:35.183",
+                        "to": "01:17:26.089",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Player On",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 7,
+                        "position": "Right Wing Back",
+                        "from": "01:17:26.089",
+                        "to": "01:29:46.108",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 3745,
+                        "counterpart_name": "Lucas Rodrigues Moura da Silva"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 1,
+                    "assists": 1,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 16284,
+                "player_name": "Arnaut Danjuma Groeneveld",
+                "player_nickname": "Arnaut Danjuma",
+                "birth_date": "1997-01-31",
+                "player_gender": "male",
+                "player_height": 178.0,
+                "player_weight": 74.0,
+                "jersey_number": 16,
+                "country": {
+                    "id": 160,
+                    "name": "Netherlands"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 22145,
+                "player_name": "Oliver Skipp",
+                "player_nickname": null,
+                "birth_date": "2000-09-16",
+                "player_gender": "male",
+                "player_height": 175.0,
+                "player_weight": 70.0,
+                "jersey_number": 4,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 11,
+                        "position": "Left Defensive Midfield",
+                        "from": "00:00:00.000",
+                        "to": "01:17:26.089",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 10,
+                        "position": "Center Defensive Midfield",
+                        "from": "01:17:26.089",
+                        "to": "01:29:45.784",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 138026,
+                        "counterpart_name": "George Abbott"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 22818,
+                "player_name": "Dejan Kulusevski",
+                "player_nickname": null,
+                "birth_date": "2000-04-25",
+                "player_gender": "male",
+                "player_height": 186.0,
+                "player_weight": 80.0,
+                "jersey_number": 21,
+                "country": {
+                    "id": 220,
+                    "name": "Sweden"
+                },
+                "positions": [
+                    {
+                        "position_id": 22,
+                        "position": "Right Center Forward",
+                        "from": "00:00:00.000",
+                        "to": "01:06:07.806",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 50498,
+                        "counterpart_name": "Pape Matar Sarr"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 23522,
+                "player_name": "Emerson Aparecido Leite de Souza Junior",
+                "player_nickname": "Emerson Royal",
+                "birth_date": "1999-01-14",
+                "player_gender": "male",
+                "player_height": 183.0,
+                "player_weight": 79.0,
+                "jersey_number": 12,
+                "country": {
+                    "id": 31,
+                    "name": "Brazil"
+                },
+                "positions": [
+                    {
+                        "position_id": 2,
+                        "position": "Right Back",
+                        "from": "00:00:00.000",
+                        "to": "01:17:26.089",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 3,
+                        "position": "Right Center Back",
+                        "from": "01:17:26.089",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 34184,
+                "player_name": "Japhet Tanganga",
+                "player_nickname": null,
+                "birth_date": "1999-03-31",
+                "player_gender": "male",
+                "player_height": 184.0,
+                "player_weight": 73.0,
+                "jersey_number": 25,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 48123,
+                "player_name": "Brandon Austin",
+                "player_nickname": null,
+                "birth_date": "1999-01-08",
+                "player_gender": "male",
+                "player_height": 188.0,
+                "player_weight": 82.0,
+                "jersey_number": 40,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 50498,
+                "player_name": "Pape Matar Sarr",
+                "player_nickname": "Pape Sarr",
+                "birth_date": "2002-09-14",
+                "player_gender": "male",
+                "player_height": 184.0,
+                "player_weight": 70.0,
+                "jersey_number": 29,
+                "country": {
+                    "id": 202,
+                    "name": "Senegal"
+                },
+                "positions": [
+                    {
+                        "position_id": 22,
+                        "position": "Right Center Forward",
+                        "from": "01:06:07.806",
+                        "to": "01:17:26.089",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Tactical Shift",
+                        "counterpart_id": 22818,
+                        "counterpart_name": "Dejan Kulusevski"
+                    },
+                    {
+                        "position_id": 13,
+                        "position": "Right Center Midfield",
+                        "from": "01:17:26.089",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 1,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 133771,
+                "player_name": "Matthew Craig",
+                "player_nickname": null,
+                "birth_date": "2003-04-16",
+                "player_gender": "male",
+                "player_height": 177.0,
+                "player_weight": null,
+                "jersey_number": 51,
+                "country": {
+                    "id": 201,
+                    "name": "Scotland"
+                },
+                "positions": [
+                    {
+                        "position_id": 9,
+                        "position": "Right Defensive Midfield",
+                        "from": "01:15:25.139",
+                        "to": "01:17:26.089",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Tactical Shift",
+                        "counterpart_id": 4385,
+                        "counterpart_name": "Yves Bissouma"
+                    },
+                    {
+                        "position_id": 15,
+                        "position": "Left Center Midfield",
+                        "from": "01:17:26.089",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 133774,
+                "player_name": "Yago de Santiago",
+                "player_nickname": "Yago Alonso",
+                "birth_date": "2003-04-15",
+                "player_gender": "male",
+                "player_height": 178.0,
+                "player_weight": null,
+                "jersey_number": 58,
+                "country": {
+                    "id": 214,
+                    "name": "Spain"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 138026,
+                "player_name": "George Abbott",
+                "player_nickname": null,
+                "birth_date": "2005-08-17",
+                "player_gender": "male",
+                "player_height": 175.0,
+                "player_weight": 70.0,
+                "jersey_number": 77,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 10,
+                        "position": "Center Defensive Midfield",
+                        "from": "01:29:45.784",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Final Whistle",
+                        "counterpart_id": 22145,
+                        "counterpart_name": "Oliver Skipp"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            }
+        ],
+        "formations": [
+            {
+                "period": 1,
+                "timestamp": "00:00:00.000",
+                "reason": "Starting XI",
+                "formation": 442
+            },
+            {
+                "period": 2,
+                "timestamp": "01:17:26.089",
+                "reason": "Tactical Shift",
+                "formation": 352
+            }
+        ],
+        "events": [
+            {
+                "period": 1,
+                "timestamp": "00:00:00.000",
+                "type": "Half Start"
+            },
+            {
+                "player_id": 3083,
+                "player_name": "Heung-Min Son",
+                "period": 1,
+                "timestamp": "00:01:30.886",
+                "type": "Ground Pass",
+                "outcome": "Assist"
+            },
+            {
+                "player_id": 10955,
+                "player_name": "Harry Kane",
+                "period": 1,
+                "timestamp": "00:01:31.788",
+                "type": "Shot",
+                "outcome": "Goal"
+            },
+            {
+                "period": 1,
+                "timestamp": "00:47:08.423",
+                "type": "Half End"
+            },
+            {
+                "period": 2,
+                "timestamp": "00:45:00.000",
+                "type": "Half Start"
+            },
+            {
+                "player_id": 11292,
+                "player_name": "Pedro Antonio Porro Sauceda",
+                "period": 2,
+                "timestamp": "00:46:19.232",
+                "type": "Shot",
+                "outcome": "Goal"
+            },
+            {
+                "player_id": 11292,
+                "player_name": "Pedro Antonio Porro Sauceda",
+                "period": 2,
+                "timestamp": "01:08:30.479",
+                "type": "Ground Pass",
+                "outcome": "Assist"
+            },
+            {
+                "player_id": 10955,
+                "player_name": "Harry Kane",
+                "period": 2,
+                "timestamp": "01:08:33.249",
+                "type": "Shot",
+                "outcome": "Goal"
+            },
+            {
+                "player_id": 50498,
+                "player_name": "Pape Matar Sarr",
+                "period": 2,
+                "timestamp": "01:34:06.115",
+                "type": "Ground Pass",
+                "outcome": "Assist"
+            },
+            {
+                "player_id": 3745,
+                "player_name": "Lucas Rodrigues Moura da Silva",
+                "period": 2,
+                "timestamp": "01:34:15.376",
+                "type": "Shot",
+                "outcome": "Goal"
+            },
+            {
+                "period": 2,
+                "timestamp": "01:35:47.963",
+                "type": "Half End"
+            }
+        ]
+    },
+    {
+        "team_id": 101,
+        "team_name": "Leeds United",
+        "lineup": [
+            {
+                "player_id": 4703,
+                "player_name": "Adam Forshaw",
+                "player_nickname": null,
+                "birth_date": "1991-10-08",
+                "player_gender": "male",
+                "player_height": 174.0,
+                "player_weight": 71.0,
+                "jersey_number": 4,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 13,
+                        "position": "Right Center Midfield",
+                        "from": "00:00:00.000",
+                        "to": "00:59:54.555",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 11,
+                        "position": "Left Defensive Midfield",
+                        "from": "00:59:54.555",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 5718,
+                "player_name": "Rodrigo Moreno Machado",
+                "player_nickname": "Rodrigo",
+                "birth_date": "1991-03-06",
+                "player_gender": "male",
+                "player_height": 182.0,
+                "player_weight": 77.0,
+                "jersey_number": 19,
+                "country": {
+                    "id": 214,
+                    "name": "Spain"
+                },
+                "positions": [
+                    {
+                        "position_id": 24,
+                        "position": "Left Center Forward",
+                        "from": "00:00:00.000",
+                        "to": "00:59:54.555",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 23,
+                        "position": "Center Forward",
+                        "from": "00:59:54.555",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 6866,
+                "player_name": "Marc Roca Junqu\u00e9",
+                "player_nickname": "Marc Roca",
+                "birth_date": "1996-11-26",
+                "player_gender": "male",
+                "player_height": 184.0,
+                "player_weight": 74.0,
+                "jersey_number": 8,
+                "country": {
+                    "id": 214,
+                    "name": "Spain"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 8068,
+                "player_name": "Maximilian W\u00f6ber",
+                "player_nickname": null,
+                "birth_date": "1998-02-04",
+                "player_gender": "male",
+                "player_height": 188.0,
+                "player_weight": 85.0,
+                "jersey_number": 39,
+                "country": {
+                    "id": 15,
+                    "name": "Austria"
+                },
+                "positions": [
+                    {
+                        "position_id": 5,
+                        "position": "Left Center Back",
+                        "from": "00:00:00.000",
+                        "to": "00:59:50.596",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 17304,
+                        "counterpart_name": "H\u00e9ctor Junior Firpo Adames"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 8526,
+                "player_name": "Weston McKennie",
+                "player_nickname": null,
+                "birth_date": "1998-08-28",
+                "player_gender": "male",
+                "player_height": 185.0,
+                "player_weight": 84.0,
+                "jersey_number": 28,
+                "country": {
+                    "id": 241,
+                    "name": "United States of America"
+                },
+                "positions": [
+                    {
+                        "position_id": 22,
+                        "position": "Right Center Forward",
+                        "from": "00:00:00.000",
+                        "to": "00:59:47.858",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 39115,
+                        "counterpart_name": "Georginio Rutter"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 9616,
+                "player_name": "Jack Harrison",
+                "player_nickname": null,
+                "birth_date": "1996-11-20",
+                "player_gender": "male",
+                "player_height": 175.0,
+                "player_weight": 70.0,
+                "jersey_number": 11,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 15,
+                        "position": "Left Center Midfield",
+                        "from": "00:00:00.000",
+                        "to": "00:59:54.555",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 7,
+                        "position": "Right Wing Back",
+                        "from": "00:59:54.555",
+                        "to": "01:27:27.561",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Substitution - Off (Injury)",
+                        "counterpart_id": 39036,
+                        "counterpart_name": "Degnand Wilfried Gnonto"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 1,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 9621,
+                "player_name": "Liam Cooper",
+                "player_nickname": null,
+                "birth_date": "1991-08-30",
+                "player_gender": "male",
+                "player_height": 180.0,
+                "player_weight": 73.0,
+                "jersey_number": 6,
+                "country": {
+                    "id": 201,
+                    "name": "Scotland"
+                },
+                "positions": [
+                    {
+                        "position_id": 4,
+                        "position": "Center Back",
+                        "from": "00:00:00.000",
+                        "to": "00:59:54.555",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 5,
+                        "position": "Left Center Back",
+                        "from": "00:59:54.555",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 9623,
+                "player_name": "Luke Ayling",
+                "player_nickname": null,
+                "birth_date": "1991-08-25",
+                "player_gender": "male",
+                "player_height": 183.0,
+                "player_weight": 72.0,
+                "jersey_number": 2,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 7,
+                        "position": "Right Wing Back",
+                        "from": "00:00:00.000",
+                        "to": "00:59:54.555",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 4,
+                        "position": "Center Back",
+                        "from": "00:59:54.555",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 13294,
+                "player_name": "Robin Koch",
+                "player_nickname": null,
+                "birth_date": "1996-07-17",
+                "player_gender": "male",
+                "player_height": 192.0,
+                "player_weight": 85.0,
+                "jersey_number": 5,
+                "country": {
+                    "id": 85,
+                    "name": "Germany"
+                },
+                "positions": [
+                    {
+                        "position_id": 10,
+                        "position": "Center Defensive Midfield",
+                        "from": "00:00:00.000",
+                        "to": "00:59:54.555",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 9,
+                        "position": "Right Defensive Midfield",
+                        "from": "00:59:54.555",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 13728,
+                "player_name": "Illan Meslier",
+                "player_nickname": null,
+                "birth_date": "2000-03-02",
+                "player_gender": "male",
+                "player_height": 197.0,
+                "player_weight": 74.0,
+                "jersey_number": 1,
+                "country": {
+                    "id": 78,
+                    "name": "France"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 16190,
+                "player_name": "Rasmus Nissen Kristensen",
+                "player_nickname": "Rasmus Kristensen",
+                "birth_date": "1997-07-11",
+                "player_gender": "male",
+                "player_height": 187.0,
+                "player_weight": 70.0,
+                "jersey_number": 25,
+                "country": {
+                    "id": 61,
+                    "name": "Denmark"
+                },
+                "positions": [
+                    {
+                        "position_id": 3,
+                        "position": "Right Center Back",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 16309,
+                "player_name": "Joel Robles Bl\u00e1zquez",
+                "player_nickname": "Joel Robles",
+                "birth_date": "1990-06-17",
+                "player_gender": "male",
+                "player_height": 197.0,
+                "player_weight": 78.0,
+                "jersey_number": 22,
+                "country": {
+                    "id": 214,
+                    "name": "Spain"
+                },
+                "positions": [
+                    {
+                        "position_id": 1,
+                        "position": "Goalkeeper",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 17304,
+                "player_name": "H\u00e9ctor Junior Firpo Adames",
+                "player_nickname": "Junior Firpo",
+                "birth_date": "1996-08-22",
+                "player_gender": "male",
+                "player_height": 184.0,
+                "player_weight": 78.0,
+                "jersey_number": 3,
+                "country": {
+                    "id": 64,
+                    "name": "Dominican Republic"
+                },
+                "positions": [
+                    {
+                        "position_id": 5,
+                        "position": "Left Center Back",
+                        "from": "00:59:50.596",
+                        "to": "00:59:54.555",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Tactical Shift",
+                        "counterpart_id": 8068,
+                        "counterpart_name": "Maximilian W\u00f6ber"
+                    },
+                    {
+                        "position_id": 8,
+                        "position": "Left Wing Back",
+                        "from": "00:59:54.555",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 22616,
+                "player_name": "Crysencio Summerville",
+                "player_nickname": null,
+                "birth_date": "2001-10-30",
+                "player_gender": "male",
+                "player_height": 174.0,
+                "player_weight": 61.0,
+                "jersey_number": 10,
+                "country": {
+                    "id": 160,
+                    "name": "Netherlands"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 24243,
+                "player_name": "Brenden Aaronson",
+                "player_nickname": null,
+                "birth_date": "2000-10-22",
+                "player_gender": "male",
+                "player_height": 178.0,
+                "player_weight": 69.0,
+                "jersey_number": 7,
+                "country": {
+                    "id": 241,
+                    "name": "United States of America"
+                },
+                "positions": [
+                    {
+                        "position_id": 8,
+                        "position": "Left Wing Back",
+                        "from": "00:58:49.714",
+                        "to": "00:59:54.555",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Tactical Shift",
+                        "counterpart_id": 33272,
+                        "counterpart_name": "Pascal Struijk"
+                    },
+                    {
+                        "position_id": 20,
+                        "position": "Left Attacking Midfield",
+                        "from": "00:59:54.555",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 33272,
+                "player_name": "Pascal Struijk",
+                "player_nickname": null,
+                "birth_date": "1999-08-11",
+                "player_gender": "male",
+                "player_height": 190.0,
+                "player_weight": 79.0,
+                "jersey_number": 21,
+                "country": {
+                    "id": 160,
+                    "name": "Netherlands"
+                },
+                "positions": [
+                    {
+                        "position_id": 8,
+                        "position": "Left Wing Back",
+                        "from": "00:00:00.000",
+                        "to": "00:58:49.714",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 24243,
+                        "counterpart_name": "Brenden Aaronson"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 39036,
+                "player_name": "Degnand Wilfried Gnonto",
+                "player_nickname": "Wilfried Gnonto",
+                "birth_date": "2003-11-05",
+                "player_gender": "male",
+                "player_height": 170.0,
+                "player_weight": null,
+                "jersey_number": 29,
+                "country": {
+                    "id": 112,
+                    "name": "Italy"
+                },
+                "positions": [
+                    {
+                        "position_id": 7,
+                        "position": "Right Wing Back",
+                        "from": "01:27:27.561",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Substitution - On (Injury)",
+                        "end_reason": "Final Whistle",
+                        "counterpart_id": 9616,
+                        "counterpart_name": "Jack Harrison"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 39115,
+                "player_name": "Georginio Rutter",
+                "player_nickname": null,
+                "birth_date": "2002-04-20",
+                "player_gender": "male",
+                "player_height": 182.0,
+                "player_weight": 83.0,
+                "jersey_number": 24,
+                "country": {
+                    "id": 78,
+                    "name": "France"
+                },
+                "positions": [
+                    {
+                        "position_id": 22,
+                        "position": "Right Center Forward",
+                        "from": "00:59:47.858",
+                        "to": "00:59:54.555",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Tactical Shift",
+                        "counterpart_id": 8526,
+                        "counterpart_name": "Weston McKennie"
+                    },
+                    {
+                        "position_id": 18,
+                        "position": "Right Attacking Midfield",
+                        "from": "00:59:54.555",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 1,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 74956,
+                "player_name": "Sam Greenwood",
+                "player_nickname": null,
+                "birth_date": "2002-01-26",
+                "player_gender": "male",
+                "player_height": 180.0,
+                "player_weight": 75.0,
+                "jersey_number": 42,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 89877,
+                "player_name": "Jeremiah Chilokoa-Mullen",
+                "player_nickname": null,
+                "birth_date": "2004-06-17",
+                "player_gender": "male",
+                "player_height": null,
+                "player_weight": null,
+                "jersey_number": 62,
+                "country": {
+                    "id": 201,
+                    "name": "Scotland"
+                },
+                "positions": [],
+                "stats": []
+            }
+        ],
+        "formations": [
+            {
+                "period": 1,
+                "timestamp": "00:00:00.000",
+                "reason": "Starting XI",
+                "formation": 352
+            },
+            {
+                "period": 2,
+                "timestamp": "00:59:54.555",
+                "reason": "Tactical Shift",
+                "formation": 3421
+            }
+        ],
+        "events": [
+            {
+                "period": 1,
+                "timestamp": "00:00:00.000",
+                "type": "Half Start"
+            },
+            {
+                "player_id": 33272,
+                "player_name": "Pascal Struijk",
+                "period": 1,
+                "timestamp": "00:08:30.897",
+                "type": "Foul Committed",
+                "outcome": "Yellow Card"
+            },
+            {
+                "player_id": 8068,
+                "player_name": "Maximilian W\u00f6ber",
+                "period": 1,
+                "timestamp": "00:13:51.200",
+                "type": "Foul Committed",
+                "outcome": "Yellow Card"
+            },
+            {
+                "period": 1,
+                "timestamp": "00:47:08.423",
+                "type": "Half End"
+            },
+            {
+                "period": 2,
+                "timestamp": "00:45:00.000",
+                "type": "Half Start"
+            },
+            {
+                "player_id": 9621,
+                "player_name": "Liam Cooper",
+                "period": 2,
+                "timestamp": "00:54:45.358",
+                "type": "Foul Committed",
+                "outcome": "Yellow Card"
+            },
+            {
+                "player_id": 39115,
+                "player_name": "Georginio Rutter",
+                "period": 2,
+                "timestamp": "01:06:42.774",
+                "type": "Ground Pass",
+                "outcome": "Assist"
+            },
+            {
+                "player_id": 9616,
+                "player_name": "Jack Harrison",
+                "period": 2,
+                "timestamp": "01:06:46.565",
+                "type": "Shot",
+                "outcome": "Goal"
+            },
+            {
+                "period": 2,
+                "timestamp": "01:35:47.963",
+                "type": "Half End"
+            }
+        ]
+    }
+]

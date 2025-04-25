@@ -1,0 +1,1290 @@
+[
+    {
+        "team_id": 93,
+        "team_name": "Brentford",
+        "lineup": [
+            {
+                "player_id": 3027,
+                "player_name": "Mathias Jattah-Njie J\u00f8rgensen",
+                "player_nickname": "Zanka",
+                "birth_date": "1990-04-23",
+                "player_gender": "male",
+                "player_height": 189.0,
+                "player_weight": 79.0,
+                "jersey_number": 13,
+                "country": {
+                    "id": 61,
+                    "name": "Denmark"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 4610,
+                "player_name": "Ethan Pinnock",
+                "player_nickname": null,
+                "birth_date": "1993-05-29",
+                "player_gender": "male",
+                "player_height": 194.0,
+                "player_weight": 79.0,
+                "jersey_number": 5,
+                "country": {
+                    "id": 113,
+                    "name": "Jamaica"
+                },
+                "positions": [
+                    {
+                        "position_id": 5,
+                        "position": "Left Center Back",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 4935,
+                "player_name": "Bryan Mbeumo",
+                "player_nickname": null,
+                "birth_date": "1999-08-07",
+                "player_gender": "male",
+                "player_height": 173.0,
+                "player_weight": 64.0,
+                "jersey_number": 19,
+                "country": {
+                    "id": 39,
+                    "name": "Cameroon"
+                },
+                "positions": [
+                    {
+                        "position_id": 17,
+                        "position": "Right Wing",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 7097,
+                "player_name": "Christian N\u00f8rgaard",
+                "player_nickname": null,
+                "birth_date": "1994-03-10",
+                "player_gender": "male",
+                "player_height": 187.0,
+                "player_weight": 77.0,
+                "jersey_number": 6,
+                "country": {
+                    "id": 61,
+                    "name": "Denmark"
+                },
+                "positions": [
+                    {
+                        "position_id": 10,
+                        "position": "Center Defensive Midfield",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 1,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 7294,
+                "player_name": "Yoane Wissa",
+                "player_nickname": null,
+                "birth_date": "1996-09-03",
+                "player_gender": "male",
+                "player_height": 176.0,
+                "player_weight": 74.0,
+                "jersey_number": 11,
+                "country": {
+                    "id": 52,
+                    "name": "Congo, (Kinshasa)"
+                },
+                "positions": [
+                    {
+                        "position_id": 23,
+                        "position": "Center Forward",
+                        "from": "00:00:00.000",
+                        "to": "00:49:26.978",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Player Off"
+                    },
+                    {
+                        "position_id": 23,
+                        "position": "Center Forward",
+                        "from": "00:50:49.446",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Player On",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 10532,
+                "player_name": "Kristoffer Vassbakk Ajer",
+                "player_nickname": "Kristoffer Ajer",
+                "birth_date": "1998-04-17",
+                "player_gender": "male",
+                "player_height": 198.0,
+                "player_weight": 92.0,
+                "jersey_number": 20,
+                "country": {
+                    "id": 171,
+                    "name": "Norway"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 12074,
+                "player_name": "Vitaly Janelt",
+                "player_nickname": null,
+                "birth_date": "1998-05-10",
+                "player_gender": "male",
+                "player_height": 184.0,
+                "player_weight": 79.0,
+                "jersey_number": 27,
+                "country": {
+                    "id": 85,
+                    "name": "Germany"
+                },
+                "positions": [
+                    {
+                        "position_id": 13,
+                        "position": "Right Center Midfield",
+                        "from": "00:00:00.000",
+                        "to": "01:11:03.777",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 15,
+                        "position": "Left Center Midfield",
+                        "from": "01:11:03.777",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 13587,
+                "player_name": "Rico Henry",
+                "player_nickname": null,
+                "birth_date": "1997-07-08",
+                "player_gender": "male",
+                "player_height": 170.0,
+                "player_weight": 67.0,
+                "jersey_number": 3,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 6,
+                        "position": "Left Back",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 18722,
+                "player_name": "Mathias Jensen",
+                "player_nickname": null,
+                "birth_date": "1996-01-01",
+                "player_gender": "male",
+                "player_height": 180.0,
+                "player_weight": 68.0,
+                "jersey_number": 8,
+                "country": {
+                    "id": 61,
+                    "name": "Denmark"
+                },
+                "positions": [
+                    {
+                        "position_id": 15,
+                        "position": "Left Center Midfield",
+                        "from": "00:00:00.000",
+                        "to": "00:58:17.082",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Player Off"
+                    },
+                    {
+                        "position_id": 15,
+                        "position": "Left Center Midfield",
+                        "from": "01:01:13.686",
+                        "to": "01:10:49.425",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Player On",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 24467,
+                        "counterpart_name": "Frank Onyeka"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 24440,
+                "player_name": "Mads Roerslev",
+                "player_nickname": null,
+                "birth_date": "1999-06-24",
+                "player_gender": "male",
+                "player_height": 184.0,
+                "player_weight": 77.0,
+                "jersey_number": 30,
+                "country": {
+                    "id": 61,
+                    "name": "Denmark"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 24467,
+                "player_name": "Frank Onyeka",
+                "player_nickname": null,
+                "birth_date": "1998-01-01",
+                "player_gender": "male",
+                "player_height": 183.0,
+                "player_weight": 70.0,
+                "jersey_number": 15,
+                "country": {
+                    "id": 166,
+                    "name": "Nigeria"
+                },
+                "positions": [
+                    {
+                        "position_id": 15,
+                        "position": "Left Center Midfield",
+                        "from": "01:10:49.425",
+                        "to": "01:11:03.777",
+                        "from_period": 2,
+                        "to_period": 2,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Tactical Shift",
+                        "counterpart_id": 18722,
+                        "counterpart_name": "Mathias Jensen"
+                    },
+                    {
+                        "position_id": 13,
+                        "position": "Right Center Midfield",
+                        "from": "01:11:03.777",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 24824,
+                "player_name": "Nathan Michael Collins",
+                "player_nickname": "Nathan Collins",
+                "birth_date": "2001-04-30",
+                "player_gender": "male",
+                "player_height": 193.0,
+                "player_weight": 0.0,
+                "jersey_number": 22,
+                "country": {
+                    "id": 109,
+                    "name": "Ireland"
+                },
+                "positions": [
+                    {
+                        "position_id": 3,
+                        "position": "Right Center Back",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 25000,
+                "player_name": "Mark Flekken",
+                "player_nickname": null,
+                "birth_date": "1993-06-13",
+                "player_gender": "male",
+                "player_height": 195.0,
+                "player_weight": 87.0,
+                "jersey_number": 1,
+                "country": {
+                    "id": 160,
+                    "name": "Netherlands"
+                },
+                "positions": [
+                    {
+                        "position_id": 1,
+                        "position": "Goalkeeper",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 25584,
+                "player_name": "Aaron Hickey",
+                "player_nickname": null,
+                "birth_date": "2002-06-10",
+                "player_gender": "male",
+                "player_height": 178.0,
+                "player_weight": 72.0,
+                "jersey_number": 2,
+                "country": {
+                    "id": 201,
+                    "name": "Scotland"
+                },
+                "positions": [
+                    {
+                        "position_id": 2,
+                        "position": "Right Back",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 32928,
+                "player_name": "Keane Lewis-Potter",
+                "player_nickname": null,
+                "birth_date": "2001-02-22",
+                "player_gender": "male",
+                "player_height": 175.0,
+                "player_weight": 67.0,
+                "jersey_number": 23,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 21,
+                        "position": "Left Wing",
+                        "from": "01:19:32.892",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Final Whistle",
+                        "counterpart_id": 58502,
+                        "counterpart_name": "Kevin Schade"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 45803,
+                "player_name": "Ehor Yarmolyuk",
+                "player_nickname": null,
+                "birth_date": "2004-03-01",
+                "player_gender": "male",
+                "player_height": 180.0,
+                "player_weight": 72.0,
+                "jersey_number": 33,
+                "country": {
+                    "id": 238,
+                    "name": "Ukraine"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 47218,
+                "player_name": "Ellery Balcombe",
+                "player_nickname": null,
+                "birth_date": "1999-10-15",
+                "player_gender": "male",
+                "player_height": 190.0,
+                "player_weight": 92.0,
+                "jersey_number": 40,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 47309,
+                "player_name": "Ethan Craig Brierley",
+                "player_nickname": null,
+                "birth_date": "2003-11-23",
+                "player_gender": "male",
+                "player_height": 168.0,
+                "player_weight": null,
+                "jersey_number": 38,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 58502,
+                "player_name": "Kevin Schade",
+                "player_nickname": null,
+                "birth_date": "2001-11-27",
+                "player_gender": "male",
+                "player_height": 183.0,
+                "player_weight": 74.0,
+                "jersey_number": 9,
+                "country": {
+                    "id": 85,
+                    "name": "Germany"
+                },
+                "positions": [
+                    {
+                        "position_id": 21,
+                        "position": "Left Wing",
+                        "from": "00:00:00.000",
+                        "to": "01:19:32.892",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 32928,
+                        "counterpart_name": "Keane Lewis-Potter"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 1,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 133178,
+                "player_name": "Michael Olakigbe",
+                "player_nickname": null,
+                "birth_date": "2004-04-25",
+                "player_gender": "male",
+                "player_height": 187.0,
+                "player_weight": null,
+                "jersey_number": 37,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [],
+                "stats": []
+            }
+        ],
+        "formations": [
+            {
+                "period": 1,
+                "timestamp": "00:00:00.000",
+                "reason": "Starting XI",
+                "formation": 433
+            }
+        ],
+        "events": [
+            {
+                "period": 1,
+                "timestamp": "00:00:00.000",
+                "type": "Half Start"
+            },
+            {
+                "player_id": 7097,
+                "player_name": "Christian N\u00f8rgaard",
+                "period": 1,
+                "timestamp": "00:17:17.487",
+                "type": "High Pass",
+                "outcome": "Assist"
+            },
+            {
+                "player_id": 58502,
+                "player_name": "Kevin Schade",
+                "period": 1,
+                "timestamp": "00:17:27.220",
+                "type": "Shot",
+                "outcome": "Goal"
+            },
+            {
+                "period": 1,
+                "timestamp": "00:46:04.059",
+                "type": "Half End"
+            },
+            {
+                "period": 2,
+                "timestamp": "00:45:00.000",
+                "type": "Half Start"
+            },
+            {
+                "period": 2,
+                "timestamp": "01:35:02.069",
+                "type": "Half End"
+            }
+        ]
+    },
+    {
+        "team_id": 31,
+        "team_name": "Crystal Palace",
+        "lineup": [
+            {
+                "player_id": 3316,
+                "player_name": "James Tomkins",
+                "player_nickname": null,
+                "birth_date": "1989-03-29",
+                "player_gender": "male",
+                "player_height": 192.0,
+                "player_weight": 74.0,
+                "jersey_number": 5,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 3443,
+                "player_name": "Joel Ward",
+                "player_nickname": null,
+                "birth_date": "1989-10-29",
+                "player_gender": "male",
+                "player_height": 186.0,
+                "player_weight": 83.0,
+                "jersey_number": 2,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 2,
+                        "position": "Right Back",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 3450,
+                "player_name": "Jordan Ayew",
+                "player_nickname": null,
+                "birth_date": "1991-09-11",
+                "player_gender": "male",
+                "player_height": 182.0,
+                "player_weight": 80.0,
+                "jersey_number": 9,
+                "country": {
+                    "id": 86,
+                    "name": "Ghana"
+                },
+                "positions": [
+                    {
+                        "position_id": 17,
+                        "position": "Right Wing",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 1,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 3520,
+                "player_name": "Jeffrey Schlupp",
+                "player_nickname": null,
+                "birth_date": "1992-12-23",
+                "player_gender": "male",
+                "player_height": 178.0,
+                "player_weight": 72.0,
+                "jersey_number": 15,
+                "country": {
+                    "id": 86,
+                    "name": "Ghana"
+                },
+                "positions": [
+                    {
+                        "position_id": 21,
+                        "position": "Left Wing",
+                        "from": "00:00:00.000",
+                        "to": "00:35:46.144",
+                        "from_period": 1,
+                        "to_period": 1,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 19,
+                        "position": "Center Attacking Midfield",
+                        "from": "00:35:46.144",
+                        "to": "01:10:44.776",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 39413,
+                        "counterpart_name": "Naouirou Ahamada"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 3591,
+                "player_name": "Ja\u00efro Riedewald",
+                "player_nickname": null,
+                "birth_date": "1996-09-09",
+                "player_gender": "male",
+                "player_height": 182.0,
+                "player_weight": 79.0,
+                "jersey_number": 44,
+                "country": {
+                    "id": 160,
+                    "name": "Netherlands"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 4059,
+                "player_name": "Remi Matthews",
+                "player_nickname": null,
+                "birth_date": "1994-02-10",
+                "player_gender": "male",
+                "player_height": 184.0,
+                "player_weight": 78.0,
+                "jersey_number": 31,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 4590,
+                "player_name": "Nathaniel Edwin Clyne",
+                "player_nickname": "Nathaniel Clyne",
+                "birth_date": "1991-04-05",
+                "player_gender": "male",
+                "player_height": 175.0,
+                "player_weight": 67.0,
+                "jersey_number": 17,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 5678,
+                "player_name": "Jefferson Andr\u00e9s Lerma Sol\u00eds",
+                "player_nickname": "Jefferson Lerma",
+                "birth_date": "1994-10-25",
+                "player_gender": "male",
+                "player_height": 179.0,
+                "player_weight": 70.0,
+                "jersey_number": 8,
+                "country": {
+                    "id": 49,
+                    "name": "Colombia"
+                },
+                "positions": [
+                    {
+                        "position_id": 11,
+                        "position": "Left Defensive Midfield",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 7403,
+                "player_name": "Jean-Philippe Mateta",
+                "player_nickname": null,
+                "birth_date": "1997-06-28",
+                "player_gender": "male",
+                "player_height": 190.0,
+                "player_weight": 88.0,
+                "jersey_number": 14,
+                "country": {
+                    "id": 78,
+                    "name": "France"
+                },
+                "positions": [
+                    {
+                        "position_id": 23,
+                        "position": "Center Forward",
+                        "from": "01:10:45.556",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Final Whistle",
+                        "counterpart_id": 10544,
+                        "counterpart_name": "Odsonne \u00c9douard"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 8247,
+                "player_name": "Joachim Andersen",
+                "player_nickname": null,
+                "birth_date": "1996-05-31",
+                "player_gender": "male",
+                "player_height": 192.0,
+                "player_weight": 90.0,
+                "jersey_number": 16,
+                "country": {
+                    "id": 61,
+                    "name": "Denmark"
+                },
+                "positions": [
+                    {
+                        "position_id": 3,
+                        "position": "Right Center Back",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 1,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 9000,
+                "player_name": "Eberechi Eze",
+                "player_nickname": null,
+                "birth_date": "1998-06-29",
+                "player_gender": "male",
+                "player_height": 173.0,
+                "player_weight": 74.0,
+                "jersey_number": 10,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 19,
+                        "position": "Center Attacking Midfield",
+                        "from": "00:00:00.000",
+                        "to": "00:35:46.144",
+                        "from_period": 1,
+                        "to_period": 1,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Tactical Shift"
+                    },
+                    {
+                        "position_id": 21,
+                        "position": "Left Wing",
+                        "from": "00:35:46.144",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Tactical Shift",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 9458,
+                "player_name": "Sam Johnstone",
+                "player_nickname": null,
+                "birth_date": "1993-03-25",
+                "player_gender": "male",
+                "player_height": 193.0,
+                "player_weight": 85.0,
+                "jersey_number": 1,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 1,
+                        "position": "Goalkeeper",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 10544,
+                "player_name": "Odsonne \u00c9douard",
+                "player_nickname": null,
+                "birth_date": "1998-01-16",
+                "player_gender": "male",
+                "player_height": 187.0,
+                "player_weight": 83.0,
+                "jersey_number": 22,
+                "country": {
+                    "id": 78,
+                    "name": "France"
+                },
+                "positions": [
+                    {
+                        "position_id": 23,
+                        "position": "Center Forward",
+                        "from": "00:00:00.000",
+                        "to": "01:10:45.556",
+                        "from_period": 1,
+                        "to_period": 2,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Substitution - Off (Tactical)",
+                        "counterpart_id": 7403,
+                        "counterpart_name": "Jean-Philippe Mateta"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 13851,
+                "player_name": "Cheick Oumar Doucoure",
+                "player_nickname": "Cheick Doucour\u00e9",
+                "birth_date": "2000-01-08",
+                "player_gender": "male",
+                "player_height": 180.0,
+                "player_weight": 73.0,
+                "jersey_number": 28,
+                "country": {
+                    "id": 140,
+                    "name": "Mali"
+                },
+                "positions": [
+                    {
+                        "position_id": 9,
+                        "position": "Right Defensive Midfield",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 34526,
+                "player_name": "Marc Guehi",
+                "player_nickname": null,
+                "birth_date": "2000-07-13",
+                "player_gender": "male",
+                "player_height": 182.0,
+                "player_weight": 82.0,
+                "jersey_number": 6,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 5,
+                        "position": "Left Center Back",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 39413,
+                "player_name": "Naouirou Ahamada",
+                "player_nickname": null,
+                "birth_date": "2002-03-29",
+                "player_gender": "male",
+                "player_height": 183.0,
+                "player_weight": 73.0,
+                "jersey_number": 29,
+                "country": {
+                    "id": 78,
+                    "name": "France"
+                },
+                "positions": [
+                    {
+                        "position_id": 19,
+                        "position": "Center Attacking Midfield",
+                        "from": "01:10:44.776",
+                        "to": null,
+                        "from_period": 2,
+                        "to_period": null,
+                        "start_reason": "Substitution - On (Tactical)",
+                        "end_reason": "Final Whistle",
+                        "counterpart_id": 3520,
+                        "counterpart_name": "Jeffrey Schlupp"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 41266,
+                "player_name": "Chris Richards",
+                "player_nickname": null,
+                "birth_date": "2000-03-28",
+                "player_gender": "male",
+                "player_height": 188.0,
+                "player_weight": 87.0,
+                "jersey_number": 26,
+                "country": {
+                    "id": 241,
+                    "name": "United States of America"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 41437,
+                "player_name": "Tyrick Mitchell",
+                "player_nickname": null,
+                "birth_date": "1999-09-01",
+                "player_gender": "male",
+                "player_height": 175.0,
+                "player_weight": 68.0,
+                "jersey_number": 3,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [
+                    {
+                        "position_id": 6,
+                        "position": "Left Back",
+                        "from": "00:00:00.000",
+                        "to": null,
+                        "from_period": 1,
+                        "to_period": null,
+                        "start_reason": "Starting XI",
+                        "end_reason": "Final Whistle"
+                    }
+                ],
+                "stats": {
+                    "own_goals": 0,
+                    "goals": 0,
+                    "assists": 0,
+                    "penalties_scored": 0,
+                    "penalties_missed": 0,
+                    "penalties_saved": 0
+                }
+            },
+            {
+                "player_id": 42923,
+                "player_name": "John-Kymani Gordon",
+                "player_nickname": null,
+                "birth_date": "2003-02-13",
+                "player_gender": "male",
+                "player_height": 181.0,
+                "player_weight": 74.0,
+                "jersey_number": 37,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [],
+                "stats": []
+            },
+            {
+                "player_id": 106904,
+                "player_name": "Jesuran Rak-Sakyi",
+                "player_nickname": null,
+                "birth_date": "2002-10-05",
+                "player_gender": "male",
+                "player_height": 178.0,
+                "player_weight": null,
+                "jersey_number": 49,
+                "country": {
+                    "id": 68,
+                    "name": "England"
+                },
+                "positions": [],
+                "stats": []
+            }
+        ],
+        "formations": [
+            {
+                "period": 1,
+                "timestamp": "00:00:00.000",
+                "reason": "Starting XI",
+                "formation": 4231
+            }
+        ],
+        "events": [
+            {
+                "period": 1,
+                "timestamp": "00:00:00.000",
+                "type": "Half Start"
+            },
+            {
+                "period": 1,
+                "timestamp": "00:46:04.059",
+                "type": "Half End"
+            },
+            {
+                "period": 2,
+                "timestamp": "00:45:00.000",
+                "type": "Half Start"
+            },
+            {
+                "player_id": 3450,
+                "player_name": "Jordan Ayew",
+                "period": 2,
+                "timestamp": "01:15:52.738",
+                "type": "Ground Pass",
+                "outcome": "Assist"
+            },
+            {
+                "player_id": 8247,
+                "player_name": "Joachim Andersen",
+                "period": 2,
+                "timestamp": "01:15:54.968",
+                "type": "Shot",
+                "outcome": "Goal"
+            },
+            {
+                "period": 2,
+                "timestamp": "01:35:02.069",
+                "type": "Half End"
+            }
+        ]
+    }
+]
